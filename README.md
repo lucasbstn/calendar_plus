@@ -20,7 +20,7 @@ import 'package:calendar_plus/calendar_plus.dart';
 
 ## Example
 
-![Screenshot_Example](https://raw.githubusercontent.com/lucasbstn/calendar_plus/screenshots/example.png)
+![Screenshot_Example](screenshots/example.png)
 
 ```dart
     CalendarPlus(
