@@ -1,6 +1,7 @@
 # Calendar Plus
 
-A highly customizable calendar template for Flutter.
+A highly customizable calendar template for Flutter. You have complete control over the widgets built inside the calendar. 
+See examples for example implementations of events drag and drop.
 
 ## Getting started
 
