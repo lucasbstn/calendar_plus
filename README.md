@@ -14,9 +14,11 @@ dependencies:
 
 In your library add the following import:
 
-````dart
+```dart
 import 'package:calendar_plus/calendar_plus.dart';
-```## Example
+```
+
+## Example
 
 ![Screenshot_Example](https://raw.githubusercontent.com/lucasbstn/calendar_plus/screenshots/example.png)
 
@@ -41,7 +43,7 @@ import 'package:calendar_plus/calendar_plus.dart';
         );
       },
     );
-````
+```
 
 ## Authors
 

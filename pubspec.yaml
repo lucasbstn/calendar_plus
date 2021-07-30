@@ -1,6 +1,6 @@
 name: calendar_plus
 description: A super customizable calendar template for Flutter
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/lucasbstn/calendar_plus
 
 environment:
